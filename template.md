@@ -11,7 +11,7 @@ Table of Contents
   * 1 [Introduction](#1-introduction)
    * 1.1 [Document Purpose](#1.1-purpose)
    * 1.2 [Product Scope](#1.2-scope)
-   * 1.3 [Stakeholders](#1.2-stakeholders)
+   * 1.3 [Stakeholders](#1.3-stakeholders)
   
 
 ## Revision History
