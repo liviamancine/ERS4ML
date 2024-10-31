@@ -7,7 +7,7 @@ Prepared by <author>
 Table of Contents
 =================
   * [Revision History](#revision-history)
-  * [Explicability Requirements Specification (ERS) document](#Explicability Requirements Specification (ERS) document)
+  * [Explicability Requirements Specification (ERS) document](#ERS-document)
 
 
 ## Revision History
