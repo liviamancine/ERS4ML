@@ -6,8 +6,10 @@ Prepared by <author>
 
 Table of Contents
 =================
-  * [Revision History] (#revision-history)
+  * [Revision History](#revision-history)
 
+[Ir para Minha Seção](#minha-seção)
 
 ## Revision History
 
+## Minha Seção
