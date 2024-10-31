@@ -4,5 +4,7 @@
 Version 0.1
 Prepared by <author>
 
+Table of Contents
+=================
+  * [Revision History] (#revision-history)
 
-# Seção 1
