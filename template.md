@@ -10,6 +10,9 @@ Table of Contents
   * [Explicability Requirements Specification (ERS) document](#ERS-document)
   * 1 [Introduction](#1-introduction)
    * 1.1 [Document Purpose](#1.1-purpose)
+   * 1.2 [Product Scope](#1.2-scope)
+   * 1.3 [Stakeholders](#1.2-stakeholders)
+  
 
 ## Revision History
 
@@ -25,5 +28,12 @@ Esta seção deve fornecer uma visão geral de todo documento.
 
 ## 1.1 Document Purpose
 
-Descreva a proposta da ERS4ML e seu público-alvo.
+Descreva a proposta da ERS4ML e seu público-alvo. 
 
+## 1.2 Product Scope
+
+Explique a função do componente de AM, incluindo sua finalidade específica e influência na tomada de decisão. Apresente se o componente de AM faz parte de um sistema maior ou é subsistema independente. Forneça uma breve descrição do componente de AM que está sendo especificado, abordando sua finalidade, os principais benefícios esperados, bem como seus objetivos e metas relevantes. Relacione esses objetivos e metas corporativas ou estratégias de negócios, explicando como o componente contribui para atingir esses resultados. Se um documento de visão e escopo separado, inclua apenas a referência a ele, evitando duplicação de conteúdo.
+
+## 1.3 Stakeholders
+
+Explique como os stakeholders serão influênciados por este sistema, incluindo os impactos esperados em suas atividades, responsabilidades e tomadas de decisão.
