@@ -1,4 +1,4 @@
-# Software Requirements Specification (SRS) document template for based Machine Learning system (ML)
+# Explicability Requirements Specification (ERS) document template for based Machine Learning system (ML)
 
 A template for Software Requirements Specification based on ISO/IEC/IEEE 29148:2011, and adapted for based Machine Learning system.
 
