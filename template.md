@@ -12,7 +12,8 @@ Table of Contents
    * 1.1 [Document Purpose](#1.1-purpose)
    * 1.2 [Product Scope](#1.2-scope)
    * 1.3 [Stakeholders](#1.3-stakeholders)
-  * 2 [Product Overview](#2-product-overview) 
+  * 2 [Product Overview](#2-product-overview)
+   * 2.1 [Product perspective](#2.1-product-perpective)  
   
 
 ## Revision History
@@ -47,3 +48,18 @@ Explique como os stakeholders serão influênciados por este sistema, incluindo 
 
 ## 2. Product Overview
 Esta seção deve descrever os fatores gerais que afetam o produto e seus requisitos. Esta seção não declara requisitos específicos.
+
+## 2.1 Product perspective
+
+Descreva se o produto de AM é um componente de um sistema maior que oferece uma funcionalidade nova, uma substituição para certos sistemas ou funcionalidades existentes ou um produto novo e independente. Se o produto for um componente de um sistema maior, identifique as interfaces entre o produto coberto por este ERSML e o sistema maior. Um diagrama simples que mostre os principais componentes do sistema geral, interconexões de subsistemas e interfaces externas pode ser útil.
+
+
+
+
+
+
+
+
+
+
+
