@@ -12,6 +12,7 @@ Table of Contents
    * 1.1 [Document Purpose](#1.1-purpose)
    * 1.2 [Product Scope](#1.2-scope)
    * 1.3 [Stakeholders](#1.3-stakeholders)
+  * 2 [Product Overview](#2-product-overview) 
   
 
 ## Revision History
@@ -20,6 +21,7 @@ Table of Contents
 ## Explicability Requirements Specification (ERS) document
 
 Este documento define a especificação do requesito de explicabilidade para sistemas baseados em Aprendizado de Máquina (AM), seguindo as diretrizes ISO/IEC/IEEE 29148:2011. A especificação deste requisito não-funcional considera regulamentações e diretrizes internacionais e nacionais sobre a Inteligência Artificial (IA) para saúde, incluindo recomendações da Organização Mundial da Saúde (OMS), o Projeto de Lei n. 2338/2023, que regulamenta o uso da IA no Brasil, e o estudo sobre IA na saúde do Núcleo de Informação e Coordenação do Ponto BR (NIC.br).
+Neste documento, a explicabilidade é utilizada para alcançar transparência
 A organização dos itens de informativos, como a sequência e a estrutura das seções, poderá ser adaptada conforme as políticas de documentação específicas do projeto.
 
 ## 1. Introduction
@@ -36,4 +38,7 @@ Explique a função do componente de AM, incluindo sua finalidade específica e 
 
 ## 1.3 Stakeholders
 
-Explique como os stakeholders serão influênciados por este sistema, incluindo os impactos esperados em suas atividades, responsabilidades e tomadas de decisão.
+Explique como os stakeholders serão influênciados por este sistema, incluindo os impactos esperados em suas atividades, responsabilidades e tomadas de decisão realizada pelo componentes de AM.
+
+## 2. Product Overview
+Esta seção deve descrever os fatores gerais que afetam o produto e seus requisitos. Esta seção não declara requisitos específicos.
