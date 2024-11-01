@@ -13,8 +13,9 @@ Table of Contents
    * 1.2 [Product Scope](#1.2-scope)
    * 1.3 [Stakeholders](#1.3-stakeholders)
   * 2 [Product Overview](#2-product-overview)
-   * 2.1 [Product perspective](#2.1-product-perpective)  
-  
+   * 2.1 [Product Functions](#2.1-product-function)
+   * 2.2 [Product Perspective](#2.2-product-perpective)  
+   !!!* 2.3 [Product Constraints](#2.3-product-constraints)
 
 ## Revision History
 
@@ -40,7 +41,7 @@ Descreva a proposta da ERS4ML e seu público-alvo.
 
 ## 1.2 Product Scope
 
-Explique a função do componente de AM, incluindo sua finalidade específica e influência na tomada de decisão. Apresente se o componente de AM faz parte de um sistema maior ou é subsistema independente. Forneça uma breve descrição do componente de AM que está sendo especificado, abordando sua finalidade, os principais benefícios esperados, bem como seus objetivos e metas relevantes. Relacione esses objetivos e metas corporativas ou estratégias de negócios, explicando como o componente contribui para atingir esses resultados. Se um documento de visão e escopo separado, inclua apenas a referência a ele, evitando duplicação de conteúdo.
+Explique a função do componente de AM, incluindo sua finalidade específica e influência na tomada de decisão pelos algoritmos de AM. Apresente se o componente de AM faz parte de um sistema maior ou é subsistema independente. Forneça uma breve descrição do componente de AM que está sendo especificado, abordando sua finalidade, os principais benefícios esperados, bem como seus objetivos e metas relevantes. Relacione esses objetivos e metas corporativas ou estratégias de negócios, explicando como o componente contribui para atingir esses resultados. Se um documento de visão e escopo separado, inclua apenas a referência a ele, evitando duplicação de conteúdo.
 
 ## 1.3 Stakeholders
 
@@ -49,11 +50,17 @@ Explique como os stakeholders serão influênciados por este sistema, incluindo 
 ## 2. Product Overview
 Esta seção deve descrever os fatores gerais que afetam o produto e seus requisitos. Esta seção não declara requisitos específicos.
 
-## 2.1 Product perspective
+## 2.1 Product Functions
 
-Descreva se o produto de AM é um componente de um sistema maior que oferece uma funcionalidade nova, uma substituição para certos sistemas ou funcionalidades existentes ou um produto novo e independente. Se o produto for um componente de um sistema maior, identifique as interfaces entre o produto coberto por este ERSML e o sistema maior. Um diagrama simples que mostre os principais componentes do sistema geral, interconexões de subsistemas e interfaces externas pode ser útil.
+Resuma as principais funções que o produto deve executar ou permitir que o usuário execute, considerando apenas as funções realizadas pelos algoritmos de AM. Os detalhes serão fornecidos na Seção 3, então inclua aqui apenas um resumo de alto nível (como uma lista com marcadores). Organize as funções para que sejam compreensíveis por qualquer leitor do ERSML.
+
+## 2.2 Product perspective
+
+Descreva se o produto de AM é um componente de um sistema maior que oferece uma funcionalidade nova, substitui para certos sistemas ou funcionalidades existentes, ou se é um produto novo e independente. Se o produto fizer parte de um produto maior, identifique as interfaces entre o produto descrito neste ERSML e o sistema maior. A inclusão de um diagrama simples mostrando os principais componentes do sistema geral, as interconexões de subsistemas e interfaces externas pode ser útil.
 
 
+
+##  2.3 [Product Constraints]
 
 
 
