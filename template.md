@@ -17,7 +17,7 @@ Table of Contents
    * 2.2 [Product Perspective](#2.2-product-perpective)  
    * 2.3 [Product Constraints](#2.3-product-constraints)
    * 2.4 [User Characteristics](#2.4-user-characteristics)
-  * 3. [Decision point Requirements of Machine Learning Models](#3-requeriments-pontos-decisao)
+  * 3 [Decision Point Requirements of Machine Learning Models](#3-requeriments-pontos-decisao)
    * 3.1 [Requisitos de Contexto do Componente de AM](#-requisitos-contexto)
    * 3.2 [Requisitos do Processo de Seleção e Preparação dos Dados](#-requisitos-selecao-preparacao)
    * 3.3 [Requisitos de Modelagem de AM](#-requisitos-modelagem)
@@ -74,7 +74,7 @@ Em construção...
 
 Identifique as diferentes classes de usuários que provalvemente utilizarão este componente de AM. Diferencie as classes com base na frequência de uso, subconjunto de funções utilizadas, conhecimento técnico, nível de segurança ou privilégio, formação educacional ou experiência. Descreva as características pertinentes de cada classe de usuário, destacando aquelas que podem ter requisitos específicos. Distinga as classes de usuários mais críticas para o produto daquelas que são de menor prioridade. Exemplos de classes de usuários incluem: profissional médico, gestores hospitalares, reguladores, partes afetadas, como os pacientes. 
 
-## 3. Decision point Requirements of Machine Learning Models
+## 3. Decision Point Requirements of Machine Learning Models
 
 > Esta seção especifica os requisitos do componente de AM em um nível de detalhe suficiente para permitir que os engenheiro projetem um componente de AM explicável, que atenda ao objetivo de transparência.
 
