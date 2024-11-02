@@ -17,8 +17,8 @@ Table of Contents
    * 2.2 [Product Perspective](#22-product-perpective)  
    * 2.3 [Product Constraints](#23-product-constraints)
    * 2.4 [User Characteristics](#24-user-characteristics)
-  * 3 [Decision Point Requirements of Machine Learning Models](#3-requeriments-pontos-decisao)
-   * 3.1 [Requisitos de Contexto do Componente de AM](#31-requisitos-contexto)
+  * 3 [Decision Point Requirements of Machine Learning Models](#3-decision-point-requirements-of-machine-learning-models)
+   * 3.1 [Requisitos de Contexto do Componente de AM](#31-requisitos-de-contexto-do-componente-de-AM)
    * 3.2 [Requisitos do Processo de Seleção e Preparação dos Dados](#32-requisitos-selecao-preparacao)
    * 3.3 [Requisitos de Modelagem de AM](#33-requisitos-modelagem)
        
