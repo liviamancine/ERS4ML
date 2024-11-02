@@ -15,7 +15,9 @@ Table of Contents
   * 2 [Product Overview](#2-product-overview)
    * 2.1 [Product Functions](#2.1-product-function)
    * 2.2 [Product Perspective](#2.2-product-perpective)  
-   !!!* 2.3 [Product Constraints](#2.3-product-constraints)
+   * 2.3 [Product Constraints](#2.3-product-constraints)
+   * 2.4 [User Characteristics](#2.4-user-characteristics)
+  * 3. [Requirements](#3-requeriments)
 
 ## Revision History
 
@@ -33,7 +35,7 @@ A organização dos itens de informativos, como a sequência e a estrutura das s
 
 ## 1. Introduction
 
-Esta seção deve fornecer uma visão geral de todo documento.
+Esta seção deve fornecer uma visão geral do componente de Aprendizado de Máquina (AM).
 
 ## 1.1 Document Purpose
 
@@ -56,13 +58,19 @@ Resuma as principais funções que o produto deve executar ou permitir que o usu
 
 ## 2.2 Product perspective
 
-Descreva se o produto de AM é um componente de um sistema maior que oferece uma funcionalidade nova, substitui para certos sistemas ou funcionalidades existentes, ou se é um produto novo e independente. Se o produto fizer parte de um produto maior, identifique as interfaces entre o produto descrito neste ERSML e o sistema maior. A inclusão de um diagrama simples mostrando os principais componentes do sistema geral, as interconexões de subsistemas e interfaces externas pode ser útil.
-
-
+Descreva se o produto de AM é um componente de um sistema maior que oferece uma funcionalidade nova, substitui certos sistemas ou funcionalidades existentes, ou se é um produto novo e independente. Se o produto fizer parte de um produto maior, identifique as interfaces entre o produto descrito neste ERSML e o sistema maior. A inclusão de um diagrama simples mostrando os principais componentes do sistema geral, as interconexões de subsistemas e interfaces externas pode ser útil.
 
 ##  2.3 [Product Constraints]
 
+Em construção...
 
+## 2.4 User Characteristics
+
+Identifique as diferentes classes de usuários que provalvemente utilizarão este componente de AM. Diferencie as classes com base na frequência de uso, subconjunto de funções utilizadas, conhecimento técnico, nível de segurança ou privilégio, formação educacional ou experiência. Descreva as características pertinentes de cada classe de usuário, destacando aquelas que podem ter requisitos específicos. Distinga as classes de usuários mais críticas para o produto daquelas que são de menor prioridade. Exemplos de classes de usuários incluem: profissional médico, gestores hospitalares, reguladores, partes afetadas, como os pacientes. 
+
+## 3. Requirements
+
+Esta seção especifica os requisitos do componente de AM. Especifique todos os requisitos do componente em um nível de detalhe suficiente para permitir 
 
 
 
