@@ -9,18 +9,18 @@ Table of Contents
   * [Revision History](#revision-history)
   * [Explicability Requirements Specification (ERS) document](#ERS-document)
   * 1 [Introduction](#1-introduction)
-   * 1.1 [Document Purpose](#1.1-purpose)
-   * 1.2 [Product Scope](#1.2-scope)
-   * 1.3 [Stakeholders](#1.3-stakeholders)
+   * 1.1 [Document Purpose](#11-purpose)
+   * 1.2 [Product Scope](#12-scope)
+   * 1.3 [Stakeholders](#13-stakeholders)
   * 2 [Product Overview](#2-product-overview)
-   * 2.1 [Product Functions](#2.1-product-function)
-   * 2.2 [Product Perspective](#2.2-product-perpective)  
-   * 2.3 [Product Constraints](#2.3-product-constraints)
-   * 2.4 [User Characteristics](#2.4-user-characteristics)
+   * 2.1 [Product Functions](#21-product-function)
+   * 2.2 [Product Perspective](#22-product-perpective)  
+   * 2.3 [Product Constraints](#23-product-constraints)
+   * 2.4 [User Characteristics](#24-user-characteristics)
   * 3 [Decision Point Requirements of Machine Learning Models](#3-requeriments-pontos-decisao)
-   * 3.1 [Requisitos de Contexto do Componente de AM](#-requisitos-contexto)
-   * 3.2 [Requisitos do Processo de Seleção e Preparação dos Dados](#-requisitos-selecao-preparacao)
-   * 3.3 [Requisitos de Modelagem de AM](#-requisitos-modelagem)
+   * 3.1 [Requisitos de Contexto do Componente de AM](#31-requisitos-contexto)
+   * 3.2 [Requisitos do Processo de Seleção e Preparação dos Dados](#32-requisitos-selecao-preparacao)
+   * 3.3 [Requisitos de Modelagem de AM](#33-requisitos-modelagem)
        
 
 ## Revision History
@@ -33,7 +33,7 @@ Table of Contents
 
 ## Explicability Requirements Specification (ERS) document
 
-Este documento define a especificação do requesito de explicabilidade para sistemas baseados em Aprendizado de Máquina (AM), seguindo as diretrizes ISO/IEC/IEEE 29148:2011. A especificação deste requisito não-funcional considera regulamentações e diretrizes internacionais e nacionais sobre a Inteligência Artificial (IA) para saúde, incluindo recomendações da Organização Mundial da Saúde (OMS), o Projeto de Lei n. 2338/2023, que regulamenta o uso da IA no Brasil, e o estudo sobre IA na saúde do Núcleo de Informação e Coordenação do Ponto BR (NIC.br).
+> Este documento define a especificação do requesito de explicabilidade para sistemas baseados em Aprendizado de Máquina (AM), seguindo as diretrizes ISO/IEC/IEEE 29148:2011. A especificação deste requisito não-funcional considera regulamentações e diretrizes internacionais e nacionais sobre a Inteligência Artificial (IA) para saúde, incluindo recomendações da Organização Mundial da Saúde (OMS), o Projeto de Lei n. 2338/2023, que regulamenta o uso da IA no Brasil, e o estudo sobre IA na saúde do Núcleo de Informação e Coordenação do Ponto BR (NIC.br).
 Neste documento, a explicabilidade é utilizada para alcançar o aspecto de transparência.
 A organização dos itens informativos, como a sequência e a estrutura das seções, poderá ser adaptada conforme as políticas de documentação específicas do projeto.
 
