@@ -18,6 +18,8 @@ Table of Contents
    * 2.3 [Product Constraints](#2.3-product-constraints)
    * 2.4 [User Characteristics](#2.4-user-characteristics)
   * 3. [Requirements](#3-requeriments)
+    *3.1   
+       
 
 ## Revision History
 
@@ -30,12 +32,12 @@ Table of Contents
 ## Explicability Requirements Specification (ERS) document
 
 Este documento define a especificação do requesito de explicabilidade para sistemas baseados em Aprendizado de Máquina (AM), seguindo as diretrizes ISO/IEC/IEEE 29148:2011. A especificação deste requisito não-funcional considera regulamentações e diretrizes internacionais e nacionais sobre a Inteligência Artificial (IA) para saúde, incluindo recomendações da Organização Mundial da Saúde (OMS), o Projeto de Lei n. 2338/2023, que regulamenta o uso da IA no Brasil, e o estudo sobre IA na saúde do Núcleo de Informação e Coordenação do Ponto BR (NIC.br).
-Neste documento, a explicabilidade é utilizada para alcançar transparência
-A organização dos itens de informativos, como a sequência e a estrutura das seções, poderá ser adaptada conforme as políticas de documentação específicas do projeto.
+Neste documento, a explicabilidade é utilizada para alcançar o aspecto de transparência.
+A organização dos itens informativos, como a sequência e a estrutura das seções, poderá ser adaptada conforme as políticas de documentação específicas do projeto.
 
 ## 1. Introduction
 
-Esta seção deve fornecer uma visão geral do componente de Aprendizado de Máquina (AM).
+> Esta seção deve fornecer uma visão geral do componente de Aprendizado de Máquina (AM).
 
 ## 1.1 Document Purpose
 
@@ -43,14 +45,16 @@ Descreva a proposta da ERS4ML e seu público-alvo.
 
 ## 1.2 Product Scope
 
-Explique a função do componente de AM, incluindo sua finalidade específica e influência na tomada de decisão pelos algoritmos de AM. Apresente se o componente de AM faz parte de um sistema maior ou é subsistema independente. Forneça uma breve descrição do componente de AM que está sendo especificado, abordando sua finalidade, os principais benefícios esperados, bem como seus objetivos e metas relevantes. Relacione esses objetivos e metas corporativas ou estratégias de negócios, explicando como o componente contribui para atingir esses resultados. Se um documento de visão e escopo separado, inclua apenas a referência a ele, evitando duplicação de conteúdo.
+Explique a função do componente de AM, incluindo sua finalidade específica e influência na tomada de decisão pelos algoritmos de AM. Apresente se o componente de AM faz parte de um sistema maior ou é subsistema independente. 
+Forneça uma breve descrição do componente de AM que está sendo especificado, abordando sua finalidade, os principais benefícios esperados, bem como seus objetivos e metas relevantes. Relacione esses objetivos e metas corporativas ou estratégias de negócios, explicando como o componente contribui para atingir esses resultados. Se já existe um documento de visão e escopo separado, inclua apenas a referência a ele, evitando duplicação de conteúdo.
 
 ## 1.3 Stakeholders
 
 Explique como os stakeholders serão influênciados por este sistema, incluindo os impactos esperados em suas atividades, responsabilidades e tomadas de decisão realizada pelo componentes de AM.
 
 ## 2. Product Overview
-Esta seção deve descrever os fatores gerais que afetam o produto e seus requisitos. Esta seção não declara requisitos específicos.
+
+> Esta seção deve descrever os fatores gerais que afetam o produto e seus requisitos. Esta seção não declara requisitos específicos.
 
 ## 2.1 Product Functions
 
@@ -70,7 +74,16 @@ Identifique as diferentes classes de usuários que provalvemente utilizarão est
 
 ## 3. Requirements
 
-Esta seção especifica os requisitos do componente de AM. Especifique todos os requisitos do componente em um nível de detalhe suficiente para permitir 
+> Esta seção especifica os requisitos do componente de AM.
+> Especifique todos os requisitos do componente em um nível de detalhe suficiente para permitir que os engenheiros projetem um componente de AM explicável para satisfazer o objetivo de ser transparente.
+
+> Os requisitos específicos devem:
+* Ser exclusivamente identificáveis
+* Declarar o assunto do requisito (por exemplo, sistema, software, etc.) e o que deve ser feito
+* Opcionalmente, declarar as condições e restrições, se houver
+* Descrever cada entrada (estímulo) no sistema de software, cada saída (resposta) do sistema de software e todas as funções executadas pelo sistema de software em resposta a uma entrada ou em suporte a uma saída
+* Ser verificável (por exemplo, a realização do requisito pode ser comprovada para a satisfação do cliente)
+* Estar conforme a sintaxe, palavras-chave e termos acordados
 
 
 
