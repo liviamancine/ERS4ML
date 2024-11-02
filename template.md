@@ -20,7 +20,7 @@ Table of Contents
   * 3 [Decision Point Requirements of Machine Learning Models](#3-decision-point-requirements-of-machine-learning-models)
    * 3.1 [Requisitos de Contexto do Componente de AM](#31-requisitos-de-contexto-do-componente-de-AM)
    * 3.2 [Requisitos do Processo de Seleção e Preparação dos Dados](#32-requisitos-do-processo-de-selecao-e-preparacao-dos-dados)
-   * 3.3 [Requisitos de Modelagem de AM](#33-requisitos-de-modelagem)
+   * 3.3 [Requisitos de Modelagem de AM](#33-requisitos-de-modelagem-de-am)
        
 
 ## Revision History
