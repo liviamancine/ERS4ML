@@ -76,7 +76,7 @@ Identifique as diferentes classes de usuários que provalvemente utilizarão est
 
 ## 3. Decision Point Requirements of Machine Learning Models
 
-> Esta seção especifica os requisitos do componente de AM em um nível de detalhe suficiente para permitir que os engenheiro projetem um componente de AM explicável, que atenda ao objetivo de transparência.
+> Esta seção especifica os requisitos do componente de AM em um nível de detalhe suficiente para permitir que os engenheiro projetem um componente de AM explicável, que atenda ao objetivo de transparência, além de proporcionar rastreabilidade sobre o processo de tomada de decisão.
 
 > Os requisitos específicos devem:
 * Ser identificáveis de forma única
